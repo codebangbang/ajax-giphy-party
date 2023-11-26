@@ -1,0 +1,46 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+/* button {
+    background-color: rgb(240, 65, 65);
+    border-color: lightskyblue;
+
+} */
+
+.container {
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    
+}
+
+#remove {
+    border-color: lightskyblue;
+    background-color: rgb(240, 65, 65);
+    font-size: 18px;
+    border-radius: 5px;
+    height: 50px;
+}
+
+
+#search {
+    border-color: lightskyblue;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: rgb(41, 41, 41);
+    height: 44px;
+}
+
+#submit {
+    border-color: lightskyblue;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: rgb(41, 41, 41);
+    height: 50px;
+}
+
+#gif-area {
+    max-width: 400;
+}
